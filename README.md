@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=ALAN%20J&fontColor=ffffff&fontSize=58&fontAlignY=35&animation=fadeIn&desc=Building%20AI,%20Education%20Technology%20and%20Real-World%20Systems&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=ALAN%20JOANNA&fontColor=ffffff&fontSize=58&fontAlignY=35&animation=fadeIn&desc=Building%20AI,%20Education%20Technology%20and%20Real-World%20Systems&descAlignY=55&descSize=20"/>
 
 </div>
 
@@ -25,7 +25,7 @@
 ## ⚡ Software Engineer • AI Builder • IIT Madras
 
 ```yaml
-Name: Alan J
+Name: Alan Joanna
 Location: Chennai, India
 Education:
   - BS in Data Science & Applications
