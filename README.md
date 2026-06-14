@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🚀_Click here for FULL_PORTFOLIO_EXPERIENCE-%230A1628?style=for-the-badge&logoColor=38BFFF&color=0A1628&labelColor=1E90FF)](https://24f1002102.github.io)
+Click here
+[![Portfolio](https://img.shields.io/badge/🚀FULL_PORTFOLIO_EXPERIENCE-%230A1628?style=for-the-badge&logoColor=38BFFF&color=0A1628&labelColor=1E90FF)](https://24f1002102.github.io)
 
 *Rocket animations · Dark blue waves · Particle explosions · Interactive*
 
